@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋
+
+Currently working on React and Javascript
+Wishing I was at the beach right now
 
 <!--
 **Haruni26/Haruni26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
