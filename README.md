@@ -1,6 +1,5 @@
 ## Hey there 👋
 
-Currently working on React and Javascript.
 Wishing I was at the beach right now 🌴
 
 <!--
